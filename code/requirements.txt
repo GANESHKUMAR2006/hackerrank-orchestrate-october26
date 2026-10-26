@@ -1,0 +1,5 @@
+# HackerRank Orchestrate (October 2026) — Ghost Data Still Exists
+# Minimal Third-Party Dependencies (standard library modules are excluded)
+
+pymupdf>=1.23.0
+pytest>=7.0.0
